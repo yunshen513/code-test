@@ -1,0 +1,49 @@
+.layout_card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #FFFFFF;
+}
+
+.card_container {
+    margin: 10px;
+}
+
+.card_title {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.card_intro {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.card_info {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size:16px;
+    color:#525252;
+    margin-top: 10px;
+}
+
+.card_rating {
+    display: flex;
+}
+
+.card_rating > img {
+    margin-right: 10px;
+}
+
+.card_container > .buttons > button {
+    height: 36px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.card_info > a {
+    color: #525252 ;
+}

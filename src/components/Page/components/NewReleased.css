@@ -1,0 +1,10 @@
+.layout_newReleased{
+    position: relative;
+    margin-right: 30px;   
+}
+
+.newReleased_title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}

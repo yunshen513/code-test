@@ -1,0 +1,48 @@
+.layout_banner {
+    position: relative;
+}
+
+.banner_container {
+    position: absolute;
+    top: 212px;
+    left: 120px;
+    width: 344px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.banner_title {
+    font-size: 48px;
+    color:#FFFFFF;
+}
+
+.banner_intro {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #CDCDCD;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rating {
+    display: flex;
+    font-size:16px;
+    color: #FFFFFF;
+}
+
+.rating > img {
+    margin-right: 10px;
+}
+
+.stream {
+    margin-top: 20px;
+    font-size:16px;
+    color:#FFFFFF;
+}
+
+.stream > span {
+    margin-right: 10px;
+    color: #D50000;
+}
+

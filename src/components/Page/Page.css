@@ -1,0 +1,17 @@
+.layout_page {
+   position: absolute;
+   top: 600px;
+   left: 120px;
+   padding-bottom: 100px;
+}
+
+.page_title {
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.page_content {
+    display: flex;
+}

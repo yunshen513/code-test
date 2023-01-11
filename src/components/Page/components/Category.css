@@ -1,0 +1,15 @@
+.layout_category {
+    margin-right: 30px;
+    position: relative;
+    text-align: center;
+}
+
+.category_title {
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width: 100%;
+    font-weight: 500;
+    font-size: 32px;
+    color: #FFFFFF;
+}
