@@ -19,7 +19,7 @@ const Card = ({open, item, onClose}) => {
                     <div className="buttons">
                         <button className="button_play">Play Now</button>
                         <button className="button_trailer">Watch Trailer</button>
-                        <button><img src="akar-icons_heart.svg" alt=""></img></button>
+                        <img src="akar-icons_heart.svg" alt=""></img>
                     </div>
                 </div>
             </div>);

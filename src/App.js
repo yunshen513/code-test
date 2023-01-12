@@ -4,14 +4,12 @@ import Banner from './components/Banner/Banner';
 import Sidebar from './components/Sidebar/Sidebar';
 import Page from './components/Page/Page';
 
-function App() {
-  return (
+const App =() => (
     <div className="App">
-      <Banner />
       <Sidebar />
+      <Banner />
       <Page />
     </div>
-  );
-}
+);
 
 export default App;
